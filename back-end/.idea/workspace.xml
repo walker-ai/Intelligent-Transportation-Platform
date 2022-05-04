@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="696ebfc7-aa51-4174-9e7f-f94ffcdc6fa6" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26BBvBTkFfhJIIjUDwA8U8A3C1a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="back-end" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="back-end" type="PythonConfigurationType" factoryName="Python">
+      <module name="back-end" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="back-end" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="split_train_val" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\anconda\envs\pytool\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../material/data_enhancement/paper_data" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../material/data_enhancement/paper_data/split_train_val.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="xml_to_txt (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\anconda\envs\pytool\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../material/data_enhancement/paper_data" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../material/data_enhancement/paper_data/xml_to_txt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="xml_to_txt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\anconda\envs\pytool\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../material/data_enhancement" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../material/data_enhancement/xml_to_txt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.back-end" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.xml_to_txt" />
+      <item itemvalue="Python.split_train_val" />
+      <item itemvalue="Python.xml_to_txt (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.xml_to_txt (1)" />
+        <item itemvalue="Python.split_train_val" />
+        <item itemvalue="Python.xml_to_txt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="696ebfc7-aa51-4174-9e7f-f94ffcdc6fa6" name="变更" comment="" />
+      <created>1646887358903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646887358903</updated>
+      <workItem from="1646887359973" duration="23000" />
+      <workItem from="1646887876206" duration="187000" />
+      <workItem from="1646888953568" duration="213000" />
+      <workItem from="1646889269586" duration="831000" />
+      <workItem from="1646890354375" duration="3000" />
+      <workItem from="1646890366584" duration="52000" />
+      <workItem from="1646890422671" duration="2000" />
+      <workItem from="1646890463650" duration="26000" />
+      <workItem from="1646890526542" duration="10000" />
+      <workItem from="1646890561924" duration="617000" />
+      <workItem from="1646905385581" duration="272000" />
+      <workItem from="1648781852930" duration="152000" />
+      <workItem from="1648782082689" duration="366000" />
+      <workItem from="1648782917195" duration="1309000" />
+      <workItem from="1648785900032" duration="4000" />
+      <workItem from="1648785916481" duration="768000" />
+      <workItem from="1648786817821" duration="7000" />
+      <workItem from="1648786848680" duration="20163000" />
+      <workItem from="1648810472525" duration="1310000" />
+      <workItem from="1648811805718" duration="7449000" />
+      <workItem from="1648865306484" duration="7000" />
+      <workItem from="1648865679094" duration="13627000" />
+      <workItem from="1648885526165" duration="54000" />
+      <workItem from="1648887221339" duration="5087000" />
+      <workItem from="1648908143782" duration="13000" />
+      <workItem from="1648908720355" duration="1765000" />
+      <workItem from="1648915693916" duration="28000" />
+      <workItem from="1648954942786" duration="1216000" />
+      <workItem from="1648965621160" duration="1849000" />
+      <workItem from="1648971763872" duration="5158000" />
+      <workItem from="1648980866480" duration="268000" />
+      <workItem from="1648985633495" duration="690000" />
+      <workItem from="1648997004548" duration="39000" />
+      <workItem from="1649245975176" duration="1820000" />
+      <workItem from="1649495570456" duration="51000" />
+      <workItem from="1649679148862" duration="3186000" />
+      <workItem from="1649730616051" duration="1383000" />
+      <workItem from="1649734423630" duration="661000" />
+      <workItem from="1649739483454" duration="638000" />
+      <workItem from="1649740360744" duration="10820000" />
+      <workItem from="1650858196303" duration="1860000" />
+      <workItem from="1650945450688" duration="1206000" />
+      <workItem from="1650950068032" duration="3711000" />
+      <workItem from="1650960405119" duration="2120000" />
+      <workItem from="1650963621537" duration="2014000" />
+      <workItem from="1650980584680" duration="1192000" />
+      <workItem from="1651027001454" duration="4453000" />
+      <workItem from="1651113482697" duration="15000" />
+      <workItem from="1651116771451" duration="1721000" />
+      <workItem from="1651150949038" duration="764000" />
+      <workItem from="1651151951484" duration="3343000" />
+      <workItem from="1651156425559" duration="917000" />
+      <workItem from="1651200143946" duration="4671000" />
+      <workItem from="1651320969190" duration="1593000" />
+      <workItem from="1651485969519" duration="47000" />
+      <workItem from="1651486025872" duration="6961000" />
+      <workItem from="1651503355025" duration="132000" />
+      <workItem from="1651623503416" duration="3239000" />
+      <workItem from="1651626785667" duration="428000" />
+      <workItem from="1651627240550" duration="943000" />
+      <workItem from="1651630141658" duration="598000" />
+      <workItem from="1651634317475" duration="9222000" />
+      <workItem from="1651646013898" duration="4835000" />
+      <workItem from="1651651594832" duration="3237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/back_end$split_train_val.coverage" NAME="split_train_val 覆盖结果" MODIFIED="1650951929853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../material/data_enhancement/paper_data" />
+    <SUITE FILE_PATH="coverage/back_end$xml_to_txt.coverage" NAME="xml_to_txt 覆盖结果" MODIFIED="1650946009515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../material/data_enhancement" />
+    <SUITE FILE_PATH="coverage/back_end$xml_to_txt__1_.coverage" NAME="xml_to_txt (1) 覆盖结果" MODIFIED="1650952291168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../material/data_enhancement/paper_data" />
+  </component>
+</project>
